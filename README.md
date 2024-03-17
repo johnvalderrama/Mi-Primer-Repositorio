@@ -18,7 +18,9 @@ Diplomado Fundacion Universidad de Cataluña
 <HTML>
 <h1> <em> RECREANDO LA VIDA
 <P> Este es un ensayo para emplear HTML, que fuera uno de los conocimientos que no tuve la oportunidad de obtener sino hasta ahora a mis <i>52 años<i> ha sido necesario reconstruirse lentamente, aunque recnozco que toda la vida ha sido <b>perfecta<b>.<p>
-
+<br>
+<br>
+<nav>
 
 
 
