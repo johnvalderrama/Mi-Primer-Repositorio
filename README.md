@@ -16,11 +16,8 @@ Diplomado Fundacion Universidad de Cataluña
 [You Tube]https://youtube.com/watch?v=_XPgoPHWYbA
 
 <HTML>
-<h1> <em> RECREANDO LA VIDA
-<P> Este es un ensayo para emplear HTML, que fuera uno de los conocimientos que no tuve la oportunidad de obtener sino hasta ahora a mis <i>52 años<i> ha sido necesario reconstruirse lentamente, aunque recnozco que toda la vida ha sido <b>perfecta<b>.<p>
-<br>
-<br>
-<nav>
-
+<h1> <em> RECREANDO LA VIDA<p> Este es un ensayo para emplear HTML, que fuera uno de los conocimientos que no tuve la oportunidad de obtener sino hasta ahora a mis <i>52 años<i> ha sido necesario reconstruirse lentamente, aunque recnozco que toda la vida ha sido <b>perfecta<b>.<p>
+<span><span><div><span><span><div>
+<table> Ajedrecista puntos rival
 
 
